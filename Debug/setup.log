@@ -1,0 +1,48 @@
+﻿  main.cpp
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(186,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(187,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(208,20): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(208,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(208,25): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(208,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(208,29): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(208,29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(208,37): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(208,37): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(228,2): warning C4091: 'static ': ignored on left of 'Math' when no variable is declared
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(267,2): warning C4091: 'static ': ignored on left of 'Slider' when no variable is declared
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(262,23): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(262,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(262,46): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(262,46): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(263,28): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(263,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(263,41): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(263,41): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(278,2): warning C4091: 'static ': ignored on left of 'Audio' when no variable is declared
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(436,57): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(436,57): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(437,28): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(437,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(437,41): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(437,41): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(437,51): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(437,51): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(437,61): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(437,61): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(517,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(558,59): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(558,59): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(559,28): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(559,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(559,41): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(559,41): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(559,51): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(559,51): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(559,61): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(559,61): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(653,21): warning C4018: '<': signed/unsigned mismatch
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(665,13): warning C4018: '<': signed/unsigned mismatch
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(672,21): warning C4018: '<': signed/unsigned mismatch
+E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\setup\main.cpp(745,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  setup.vcxproj -> E:\Hoc tap\Other\C++\SDL\New folder\The king and Thief\Debug\setup.exe
